@@ -84,7 +84,7 @@ if (input== 'y') {
     printf("the charecter repeaded %d times", count (str,ch));
 }
 else if (input=='n') {
-    printf("ok thakyou");
+    printf(" thakyou");
 }
 
 
