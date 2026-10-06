@@ -1,6 +1,11 @@
+
+// mini project using function,strings,array 
+
+
+
 #include <stdio.h>
 
-//very new project 
+
 
 
 
